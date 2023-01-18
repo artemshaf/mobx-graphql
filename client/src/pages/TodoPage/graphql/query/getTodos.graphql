@@ -1,0 +1,9 @@
+query {
+  getAllTodo {
+    id
+    title
+    description
+    createdAt
+    updatedAt
+  }
+}

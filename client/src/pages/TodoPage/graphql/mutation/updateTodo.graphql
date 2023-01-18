@@ -1,0 +1,6 @@
+fragment UpdateTodo on Todo {
+  id
+  title
+  description
+  done
+}
